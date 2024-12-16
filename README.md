@@ -19,7 +19,7 @@ scripts/build.sh # build the binary
 
 after steps above you will see `throttled.zip` in the project folder
 
-Do next steps in dom0:
+Do next steps in `dom0`:
 ```
 qvm-run --pass-io personal 'cat /home/user/Downalods/throttled-qubes/throttled.zip' > throttled.zip
 unzip throttled.zip
