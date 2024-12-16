@@ -7,7 +7,7 @@ This tool try to build original python tool into static executable binary
 Also you can read [Evv1l thinkguides](https://evv1l.space/thinkguides/mods_and_fixes/fixing-throttling-issues/) for improve Thinkpad permformance
 
 # Requirements
-- docker on the host system
+- Docker installed in qube
 
 # How to use
 In any qube, for example `personal`, do:
